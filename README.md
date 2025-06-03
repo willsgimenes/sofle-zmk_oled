@@ -31,12 +31,15 @@ Aqui, nunca vai ter algum tipo de limitação por GUI, apenas limitação pelo s
 
   Após baixar o arquivo de firmware e descompilar, provavelmente haverá gerado dois ou três arquivos.
   ![image](https://github.com/user-attachments/assets/385dad17-e6ec-4ec7-9e66-682085ad602f)
+  
   Keyboard.left.uf2 
+  
   Keyboard.right.uf2
+  
   Settings.reset ( esse é utilizado apenas em casos especificos )
 
   Por fim, para flashear o firmware novo é só dar dois cliques no botão de RST do teclado em menos de 1s, e abrirá uma pasta, igual um pendrive com o nome de "Nicenano"
-  ![image](https://github.com/user-attachments/assets/93f31bd0-2e98-45cb-a861-a9f7f217933d)
+ ![telegram-cloud-photo-size-1-5040021887542996513-y](https://github.com/user-attachments/assets/217fe770-6b37-4470-a5f0-d6640a593a94)
 
   e é só jogar o arquivo LEFT, no teclado esquerdo.
   E jogar o arquivo RIGHT, no teclado direito.
@@ -44,6 +47,7 @@ Aqui, nunca vai ter algum tipo de limitação por GUI, apenas limitação pelo s
   Nunca é preciso apagar nenhum arquivo dentro do Nicenano ( ou outra MCU ), sempre que atualizar só é necessário jogar um arquivo novo.
 
   ![image](https://github.com/user-attachments/assets/fec189f3-8293-4407-89ad-9f4268b701dc)
+   
     É comum que apareça um erro após após passar o novo firmware pra o teclado. Fiquem tranquilos não é um bug, é um feature do zmk : )
 
 
